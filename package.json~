@@ -1,0 +1,17 @@
+{
+  "name": "multiplayer_socketio",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.1.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
